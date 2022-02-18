@@ -9,5 +9,5 @@ A API é baseada no modelo RestFULL e contém as seguintes tecnologias:
 - Documentação com Swagger 2;
 - MOnitoramento com Spring Actuator.
 
-O aplicativo móvel que consome essa API está no repositório: https://github.com/joaooab/picPayCloneMentoriaDIO-Android
+O aplicativo móvel que consome essa API está no repositório: https://github.com/Henrique-Arau/picPayClone
 # ApiPicPay
